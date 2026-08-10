@@ -1,0 +1,6 @@
+{
+  "name": "智能贷后小助手",
+  "description": "北京银行移动贷后智能小助手静态页面",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
